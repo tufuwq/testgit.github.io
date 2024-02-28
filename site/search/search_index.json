@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"this is index","text":""},{"location":"people/","title":"this is people","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"this is index","text":""},{"location":"people/","title":"this is people","text":""},{"location":"people/#nest","title":"nest","text":""},{"location":"people/#this-is-change","title":"this is change","text":""}]}
