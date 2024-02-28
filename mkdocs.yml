@@ -1,0 +1,16 @@
+site_name: git_test
+theme:
+  name: material
+  features: #设置导航栏
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.sections
+    - toc.follow
+    # - toc.integrate
+    - navigation.top
+nav:
+  - Index: index.md
+  - People: people.md
+
